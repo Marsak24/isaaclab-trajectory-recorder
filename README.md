@@ -78,7 +78,7 @@ Always use the exported joint/body-name metadata rather than assuming an orderin
 
 ## Attribution
 
-Trajectory-recording extension maintained by **Marwa Al-Sakaf**.
+Trajectory-recording extension maintained by **Marwah Al-Sakkaf**.
 
 This utility is built on the [Isaac Lab](https://github.com/isaac-sim/IsaacLab) RSL-RL playback workflow. Original Isaac Lab copyright and BSD-3-Clause notices are preserved.
 
