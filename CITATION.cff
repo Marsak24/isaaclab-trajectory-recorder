@@ -3,7 +3,7 @@ message: "If you use this trajectory-recording utility, please cite this reposit
 title: "Isaac Lab Trajectory Recorder"
 type: software
 authors:
-  - family-names: "Al-Sakaf"
-    given-names: "Marwa"
+  - family-names: "Al-Sakkaf"
+    given-names: "Marwah"
 repository-code: "https://github.com/Marsak24/isaaclab-trajectory-recorder"
 license: BSD-3-Clause
