@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+outputs/
+*.npz
+*.csv
+*.pt
+*.pth
+*.onnx
+*.mp4
+.DS_Store

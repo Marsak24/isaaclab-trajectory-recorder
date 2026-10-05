@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this trajectory-recording utility, please cite this repository."
+title: "Isaac Lab Trajectory Recorder"
+type: software
+authors:
+  - family-names: "Al-Sakaf"
+    given-names: "Marwa"
+repository-code: "https://github.com/Marsak24/isaaclab-trajectory-recorder"
+license: BSD-3-Clause
